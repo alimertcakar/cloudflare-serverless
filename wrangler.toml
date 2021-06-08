@@ -1,7 +1,7 @@
 type = "webpack"
 zone_id = ""
-account_id = ""
+account_id = "5edd2d83797b17ed03bfc0dff8d84701"
 route = ""
 workers_dev = true
 webpack_config = "webpack.config.js"
-name = "my-app"
+name = "playground-app"
